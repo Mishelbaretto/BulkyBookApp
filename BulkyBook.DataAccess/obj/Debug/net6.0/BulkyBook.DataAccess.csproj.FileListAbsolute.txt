@@ -1,0 +1,17 @@
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+D:\VisualCodeLearnings\ASP NET6\BulkyBook\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll
